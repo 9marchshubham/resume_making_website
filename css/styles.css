@@ -1,0 +1,63 @@
+*{
+	box-sizing: border-box;
+}
+.header{
+	text-align: justify-all;
+	
+	margin: 3px;
+	padding-top: 3px;
+}
+.Details{
+/*border: 3px solid black;*/
+margin: 2px;
+padding: 3px;
+}
+.fset{
+	width: 95%;	
+}
+body{
+	line-height: 1.8;
+	background-color: #F8F8FF;
+}
+.pd{
+position: relative;
+border: 2px solid black;
+padding: 20px;
+width: 100%;
+float: right;
+margin: 10px
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
